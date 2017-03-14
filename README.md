@@ -1,7 +1,8 @@
 # Sudoku Game
 
 #### Disclaimer: 
-Below are sets of ideas / instructions I followed to make this game (Too Long To Read).
+##### Below are sets of ideas / instructions I followed to make this game. 
+##### If you want to run, please let me know, I would be more than happy to provide you test cases.
 
 Below are some screen shots of what game looks like.
 ![screen shot 2017-02-20 at 8 31 58 pm](https://cloud.githubusercontent.com/assets/11382116/23183420/cc188570-f830-11e6-9b89-d476666de557.png)
