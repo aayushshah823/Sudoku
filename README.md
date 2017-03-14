@@ -1,7 +1,6 @@
 # Sudoku Game
 
-#### Disclaimer: 
-##### Below are sets of ideas / instructions I followed to make this game. 
+#### Disclaimer: Below are sets of ideas / instructions I followed to make this game. 
 ##### If you want to run, please let me know, I would be more than happy to provide you test cases.
 
 Below are some screen shots of what game looks like.
